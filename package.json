@@ -1,0 +1,25 @@
+{
+  "name": "koa-except",
+  "version": "0.0.0",
+  "description": "Bypass koa middleware under certain conditions",
+  "license": "MIT",
+  "author": "Marlin Gingerich <marlin.gingerich@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "unless"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gingerich/koa-except.git"
+  },
+  "devDependencies": {
+    "koa": "^2.0.0",
+    "mocha": "^2.5.3",
+    "supertest": "^1.2.0"
+  }
+}
