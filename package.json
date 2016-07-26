@@ -1,6 +1,6 @@
 {
   "name": "koa-except",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bypass koa middleware under certain conditions",
   "license": "MIT",
   "author": "Marlin Gingerich <marlin.gingerich@gmail.com>",
